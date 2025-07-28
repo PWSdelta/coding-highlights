@@ -16,7 +16,7 @@ Because apparently, writing good READMEs matters to me more than I realized. Han
 
 ### [asin](https://github.com/PWSdelta/asin)  
 *A Ruby gem I cloned and customized*  
-Forked and enhanced this gem to fit my specific needs. Great example of diving into someone else’s codebase, fixing bugs, and adding features without losing sanity.
+Forked and enhanced this gem that made working with products on Amazon easier to fit my specific needs. Great example of diving into someone else’s codebase, fixing bugs, and adding features without losing sanity.
 
 ---
 
@@ -39,6 +39,7 @@ Over 800 stars and counting — a comprehensive testing scaffold for Ruby models
 
 ### [Capistrano Deployment Script](https://gist.github.com/PWSdelta/8033206)  
 An overengineered Capistrano script I built to handle full-stack app deployment. DevOps-heavy, a little chaotic, but it reliably shipped code. Great look at my approach to deployment automation back then.
+
 ---
 
 ## Connect with me  
