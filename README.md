@@ -43,8 +43,8 @@ An overengineered Capistrano script I built to handle full-stack app deployment.
 ---
 
 ## Connect with me  
-- Website: [kawaiicute.lol](http://kawaiicute.lol)  
-- GitHub: [github.com/PWSdelta](https://github.com/PWSdelta)  
+- Website (this repo): [pwsdelta.com](http://pwsdelta.com)
+- Email: pwsdelta@gmail.com
 
 ---
 
