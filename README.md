@@ -1,8 +1,15 @@
 > “Code is messy, but the process doesn’t have to be.”
 
-# KC’s Code & Tools Spotlight
+# K.C. Code & Tools Spotlight
 
 Welcome to the curated highlight reel of my programming playground. Below you’ll find my most meaningful repos and a few fan-favorite Gists that capture my style: practical, messy, and occasionally, *brilliant*.
+
+---
+
+## 👤 Who I am
+
+Most of what I’ve learned came from shipping things that were a little too fragile, scaling things that didn’t want to scale, and saying “yes” before I knew how I’d make it work. This repo isn’t a portfolio — it’s a reminder of how I’ve solved problems.  
+My next chapter is about doing that at a bigger scale: more people, more unknowns, more impact.
 
 ---
 
